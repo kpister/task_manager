@@ -28,4 +28,4 @@ Run `python task_manager.py`
 
 [ ] - More testing
 
-# Work done for Calit2 by Kaiser Pister 2018
+##### Work done for Calit2 by Kaiser Pister 2018
