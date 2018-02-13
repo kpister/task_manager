@@ -1,0 +1,27 @@
+[
+    {
+        "hostname":"cisa3-...",
+        "username":"wave1",
+        "password":""
+    },
+    {
+        "hostname":"cisa3-...",
+        "username":"wave2",
+        "password":""
+    },
+    {
+        "hostname":"cisa3-...",
+        "username":"wave3",
+        "password":""
+    },
+    {
+        "hostname":"cisa3-...",
+        "username":"wave4",
+        "password":""
+    },
+    {
+        "hostname":"cisa3-...",
+        "username":"wave5",
+        "password":""
+    }
+]
