@@ -8,4 +8,4 @@ queue.json contains a list of shell commands which should be executed. These are
 
 task\_manager.py is annotated well within itself.
 
-# Work done for Calit2 by Kaiser Pister 2018
+##### Work done for Calit2 by Kaiser Pister 2018
