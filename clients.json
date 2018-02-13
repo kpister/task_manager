@@ -1,27 +1,27 @@
 [
     {
-        "hostname":"cisa3-...",
-        "username":"wave1",
+        "hostname":"host-...",
+        "username":"user1",
         "password":""
     },
     {
-        "hostname":"cisa3-...",
-        "username":"wave2",
+        "hostname":"host-...",
+        "username":"user2",
         "password":""
     },
     {
-        "hostname":"cisa3-...",
-        "username":"wave3",
+        "hostname":"host-...",
+        "username":"user3",
         "password":""
     },
     {
-        "hostname":"cisa3-...",
-        "username":"wave4",
+        "hostname":"host-...",
+        "username":"user4",
         "password":""
     },
     {
-        "hostname":"cisa3-...",
-        "username":"wave5",
+        "hostname":"host-...",
+        "username":"user5",
         "password":""
     }
 ]
